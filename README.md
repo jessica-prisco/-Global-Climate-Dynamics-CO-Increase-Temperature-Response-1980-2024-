@@ -3,6 +3,13 @@
 
 ---
 
+## 🌐 Sito Web del Progetto
+Puoi visualizzare la dashboard interattiva qui:
+
+👉 **http://127.0.0.1:8050/**
+
+---
+
 ## 📌 Introduzione
 Questo progetto presenta una visualizzazione tridimensionale dell’evoluzione climatica globale negli ultimi quarant’anni, analizzando la relazione tra:
 
@@ -102,5 +109,6 @@ Uragani, tempeste e precipitazioni estreme diventano più frequenti e distruttiv
 ---
 
 # 📁 Struttura del progetto
+
  📜 app.py
 📜 README.md
