@@ -146,10 +146,12 @@ app.layout = html.Div(
 
         html.Div([
             html.P("created by Jessica Prisco & AI"),
-            html.P("this is a project for the develophe course, if you want work with me send an email at this adress : jessica.prisco22@gmail.com")
+            html.P("this is a project for the Develhope course,  email address : jessica.prisco22@gmail.com")
         ], style={"textAlign": "center"})
     ]
 )
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+
