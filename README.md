@@ -6,7 +6,7 @@
 ## 🌐 Sito Web del Progetto
 Puoi visualizzare la dashboard interattiva qui:
 
-👉 **https://globalclimatedynamics-byjessicaprisco.onrender.com**
+👉  **https://globalclimatedynamics-byjessicaprisco.onrender.com**
 
 ---
 
