@@ -6,7 +6,7 @@
 ## 🌐 Sito Web del Progetto
 Puoi visualizzare la dashboard interattiva qui:
 
-👉 **http://127.0.0.1:8050/**
+👉 **...**
 
 ---
 
